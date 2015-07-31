@@ -31,6 +31,12 @@ yo.yo('YOSERNAME', function (err, res) {
 });
 ```
 
+## Installation
+
+```sh
+npm install ympc-yo --save
+```
+
 ## API
 
 ### yo = new Yo(apiKey)
@@ -39,7 +45,7 @@ Create a new instance.
 
 **Arguments**
 
- - `apiKey` *(string; required)*: Your Yo APU key. Can be objained at the 
+ - `apiKey` *(string; required)*: Your Yo API key. Can be objained at the 
    [Yo dashboard][yodash].
 
 ```js
