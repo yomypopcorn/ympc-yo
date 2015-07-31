@@ -1,0 +1,14 @@
+{
+  "name": "ympc-yo",
+  "version": "1.0.0",
+  "description": "Yo API client",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "request-promise": "^0.4.3"
+  }
+}
